@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: 'PressStart2P';
+    src: url("fonts/PressStart2P.ttf"),
+         url("fonts/PressStart2P.woff");
+}
+body {
+    margin: 15px auto;
+    width: 650px;
+    background-color: green;
+    background-image: url("images/tree.jpg");
+    background-repeat: repeat;
+}
+canvas {
+    background: #7cc754;
+    position: static;
+}
+#buttons{
+    float: left;
+    width: 140px;
+}
+#stage{
+    float: left;
+}
+#retry{
+    font-size: 15px;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-family: 'PressStart2P', Courier, monospace;
+    color: darkgreen;
+    background: #7cc754;
+}
+#retry:hover{
+    color: red;
+}

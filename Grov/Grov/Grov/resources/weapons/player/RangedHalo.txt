@@ -1,0 +1,11 @@
+Zoner
+1
+0.3
+1.5
+55
+250
+Radial
+2
+1
+Star
+true

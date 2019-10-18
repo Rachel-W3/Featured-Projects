@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>The Legend of Link | Rupee Hunter | Game</title>
+        <link href="game-style.css" rel="stylesheet" type="text/css"> 
+    </head>
+    <body>
+        <div id = "buttons">
+            <button id="retry" onclick="initGame()"> Retry<br>(Enter) </button>
+        </div>
+        
+        <div id = "stage">
+            <canvas id="myCanvas" width = "500" height = "530"></canvas>
+        </div>
+
+        <script>
+
+//-------------------------------------------- Variables ---------------------------------------------------
+            // Stage
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+            var animation = null;
+            var grid = 25;
+            var count = 0;
+            var seconds = 10;
+            var speedUp = new sound("sounds/speedUp.mp3");
+            var died = new sound("sounds/gameOver.wav");
+
+            // Rupees
+            var rupee = new Image();
+            rupee.src = "images/green-rupee.png";
+            var r_xcor = 425;
+            var r_ycor = 425;
+            var collect = new sound("sounds/collect.wav");
+
+            // Link
+            var link = new Image();
+            link.src = "images/link.png";
+            var l_xcor = 50;
+            var l_ycor = 50;
+            var xWalk = grid;
+            var yWalk = 0;
+
+            // Spikes
+            var spike = new Image();
+
+            // Score
+            var score = 0;
+            var prev_score = score;
+            var best = score;
+
+            // Reset and pause
+            var gameOver = false;
+            var resetButton = {
+                x: 160,
+                y: 300,
+                width: 200,
+                height: 50,
+            }
+
+//-------------------------------------------- Helpers/Mechanics ------------------------------------------
+            // User may press enter to retry
+            document.onkeydown = function (e) {
+                e = e || window.event;
+                switch (e.which || e.keyCode) {
+                    case 13 : if (gameOver) initGame(); //prevents user from pressing enter in-game (causes early speed-up)
+                              else return;
+                    break;
+                }
+            }
+
+
+            // Direction keys
+            document.addEventListener('keydown', function(e) {
+                if (e.which === 37 && xWalk === 0) {
+                    xWalk = -grid;
+                    yWalk = 0;
+                }
+                else if (e.which === 38 && yWalk === 0) {
+                    yWalk = -grid;
+                    xWalk = 0;
+                }
+                else if (e.which === 39 && xWalk === 0) {
+                    xWalk = grid;
+                    yWalk = 0;
+                }
+                else if (e.which === 40 && yWalk === 0) {
+                    yWalk = grid;
+                    xWalk = 0;
+                }
+            });
+
+
+            // Clears stage
+            function clearStage() {
+                ctx.clearRect(grid, grid, 450, 450);
+            }
+
+
+            // Returns random integer between min and max
+            function getRandomInt(min, max) {
+                return Math.floor(Math.random() * (max - min)) + min;
+            }
+
+            
+            // Sounds
+            function sound(src) {
+                this.sound = document.createElement("audio");
+                this.sound.src = src;
+                this.sound.setAttribute("preload", "auto");
+                this.sound.setAttribute("controls", "none");
+                this.sound.style.display = "none";
+                document.body.appendChild(this.sound);
+                this.play = function(){
+                    this.sound.play();
+                }
+                this.stop = function(){
+                    this.sound.pause();
+                }    
+            }
+
+
+//-------------------------------------------- Drawing -----------------------------------------------------
+            // rendering text (https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/)
+            const FONT_NAME = 'PressStart2P';
+            
+            function renderText() {
+                ctx.clearRect(0, 500, canvas.width, canvas.height); // clears score
+                ctx.font = `10px "${FONT_NAME}"`;
+                ctx.fillStyle = "darkgreen";
+                ctx.fillText("Wallet: " + score, 10, 520);
+                ctx.fillText("Best Score: " + best, 250, 520);
+            }
+            document.fonts.load('10pt "PressStart2P"').then(renderText);
+
+
+            // init new game
+            function initGame() {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                spike.onload = function() {
+                    for (xcor = 0, ycor = 0; ycor < 500; ycor += 25) {
+                        ctx.drawImage(spike, xcor, ycor);
+                    }
+                    for (xcor = 25, ycor = 0; xcor < 500; xcor += 25) {
+                        ctx.drawImage(spike, xcor, ycor);
+                    }
+                    for (xcor = 475, ycor = 25; ycor < 500; ycor += 25) {
+                        ctx.drawImage(spike, xcor, ycor);
+                    }
+                    for (xcor = 25, ycor = 475; xcor < 475; xcor += 25) {
+                        ctx.drawImage(spike, xcor, ycor);
+                    }
+                }
+                spike.src = "images/Blade_Trap_(Ocarina_of_Time).png";
+
+                // Resets everything to original position
+                score = 0;
+                renderText();
+
+                l_xcor = 50;
+                l_ycor = 50;
+                xWalk = grid;
+                yWalk = 0;
+                
+                r_xcor = 425;
+                r_ycor = 425;
+                seconds = 10;
+
+                gameOver = false;
+
+                loop();
+            }
+
+
+            // end game
+            function endGame() {
+                died.play();
+                cancelAnimationFrame(animation);
+                clearStage();
+                ctx.font = `20px "${FONT_NAME}"`;
+                ctx.fillStyle = "red";
+                ctx.fillText("You died.", 170, 250);
+            }
+
+
+            // loop game
+            function loop() {
+                animation = requestAnimationFrame(loop);
+                // slow game loop to 60/seconds fps instead of 60
+                if (++count < seconds) {
+                    return;
+                }
+                count = 0;
+                
+                clearStage();
+
+                prev_score = score; // store current score
+
+                
+                // Rupee collected
+                if (l_xcor == r_xcor && l_ycor == r_ycor) {
+                    score += 10;
+                    if (score > best) {
+                        best = score;
+                    }
+                    renderText();
+                    // relocate rupee
+                    r_xcor = getRandomInt(1, 18) * grid;
+                    r_ycor = getRandomInt(1, 18) * grid;
+                    // Speed up or not?
+                    if (score != prev_score && score > 0 && score % 100 == 0) {
+                        seconds = seconds / 1.3;
+                        speedUp.play();
+                    }
+                    else {
+                        collect.play();
+                    }
+                }
+
+                // draw rupee
+                ctx.drawImage(rupee, r_xcor, r_ycor, 25, 25);
+
+
+                // draw Link
+                ctx.drawImage(link, l_xcor, l_ycor);
+                if (l_xcor < grid  || l_xcor >= canvas.width - grid || l_ycor < grid || l_ycor >= canvas.height - 30 - grid) {
+                    gameOver = true;
+                }
+                else {
+                    l_xcor += xWalk;
+                    l_ycor += yWalk;
+                }
+
+                // Game Over?
+                if (gameOver) {
+                    endGame();
+                }
+            }
+            initGame();
+        </script>
+    </body>
+</html>
+

@@ -1,0 +1,9 @@
+Forest Giant
+70
+false
+1
+1
+1.7
+1
+Forest Giant
+true

@@ -1,0 +1,9 @@
+﻿Turret
+15
+false
+1
+1
+0
+1
+Turret
+false
