@@ -1,0 +1,11 @@
+﻿Hand of Fire
+10
+1
+6
+3
+11
+Normal
+45
+7
+Fire
+false

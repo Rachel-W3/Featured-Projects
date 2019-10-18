@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/FireShroomlet_Walking/000.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/FireShroomlet_Walking/001.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/FireShroomlet_Walking/002.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/FireShroomlet_Walking/003.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/ForestGiant_Walking/000.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/ForestGiant_Walking/001.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/PurpleShroomlet_Walking/000.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/PurpleShroomlet_Walking/001.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/PurpleShroomlet_Walking/002.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/RedShroomlet_Walking/000.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/RedShroomlet_Walking/001.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/animations/RedShroomlet_Walking/002.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/audio/music/TitleMusicIntro.wav</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/audio/music/TitleMusicLoop.wav</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/audio/SFX/BubbleCast.wav</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/audio/SFX/FireShot.mp3</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/background.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ExitButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ExitButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/HelpButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/HelpButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/NoButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/NoButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/RestartButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/RestartButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ResumeButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ResumeButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ReturnMenuButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/ReturnMenuButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/StartButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/StartButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/YesButton_Hover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/button images/YesButton_NoHover.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/ConfirmationLabel.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/CourierNew.spritefont</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/CourierNew16.spritefont</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/Crosshair.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/dimColor.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/Grot.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/HealthBarEmpty.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/HealthBarFull.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/HelpScreen.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/ManaBarEmpty.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/ManaBarFull.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/Map.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/MapMarkers.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/PausedLabel.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/Heart.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/weapons/Bubble.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/weapons/Fire.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/weapons/Leaf.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/weapons/Star.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/pickups/weapons/Twig.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/PlayerSprite.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/projectiles/Bubble.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/projectiles/Fire.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/projectiles/Leaf.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/projectiles/Star.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/projectiles/Twig.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile0.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile1.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile2.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile3.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile4.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile5.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile6.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/tiles/tile7.png</File>
+    <File>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/Title.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>audio/music/TitleMusicIntro</File>
+    <File>audio/music/TitleMusicLoop</File>
+    <File>audio/SFX/BubbleCast</File>
+    <File>audio/SFX/FireShot</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>HealthBarEmptySprite</File>
+    <File>HealthBarFullSprite</File>
+    <File xsi:nil="true" />
+    <File>ManaBarEmptySprite</File>
+    <File>ManaBarFullSprite</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

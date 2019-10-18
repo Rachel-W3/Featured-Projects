@@ -1,0 +1,10 @@
+Turret
+24
+20
+10
+1
+10
+Normal
+130
+7
+Star

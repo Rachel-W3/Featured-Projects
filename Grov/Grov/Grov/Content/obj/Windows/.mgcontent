@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/game/Grov/Grov/Content/CourierNew.spritefont</File>
+    <File>C:/game/Grov/Grov/Content/EnemyholderSprite.png</File>
+    <File>C:/game/Grov/Grov/Content/FireballholderSprite.png</File>
+    <File>C:/game/Grov/Grov/Content/HealthBarEmpty.png</File>
+    <File>C:/game/Grov/Grov/Content/HealthBarFull.png</File>
+    <File>C:/game/Grov/Grov/Content/MageholderSprite.png</File>
+    <File>C:/game/Grov/Grov/Content/ManaBarEmpty.png</File>
+    <File>C:/game/Grov/Grov/Content/ManaBarFull.png</File>
+    <File>C:/game/Grov/Grov/Content/tile0.png</File>
+    <File>C:/game/Grov/Grov/Content/tile1.png</File>
+    <File>C:/game/Grov/Grov/Content/tile2.png</File>
+    <File>C:/game/Grov/Grov/Content/tile3.png</File>
+    <File>C:/game/Grov/Grov/Content/tile4.png</File>
+    <File>C:/game/Grov/Grov/Content/tile5.png</File>
+    <File>C:/game/Grov/Grov/Content/tile6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>EnemyholderSprite</File>
+    <File>FireballholderSprite</File>
+    <File>HealthBarEmptySprite</File>
+    <File>HealthBarFullSprite</File>
+    <File>MageholderSprite</File>
+    <File>ManaBarEmptySprite</File>
+    <File>ManaBarFullSprite</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

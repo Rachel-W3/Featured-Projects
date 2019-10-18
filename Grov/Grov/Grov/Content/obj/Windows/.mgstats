@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/game/Grov/Grov/Content/CourierNew.spritefont","C:/game/Grov/Grov/Content/bin/Windows/CourierNew.xnb","FontDescriptionProcessor","SpriteFontContent",2014,70673,0.3883669
+"C:/game/Grov/Grov/Content/EnemyholderSprite.png","C:/game/Grov/Grov/Content/bin/Windows/EnemyholderSprite.xnb","TextureProcessor","Texture2DContent",8756,90085,0.1003661
+"C:/game/Grov/Grov/Content/FireballholderSprite.png","C:/game/Grov/Grov/Content/bin/Windows/FireballholderSprite.xnb","TextureProcessor","Texture2DContent",976,161493,0.0220139
+"C:/game/Grov/Grov/Content/HealthBarEmpty.png","C:/game/Grov/Grov/Content/bin/Windows/HealthBarEmptySprite.xnb","TextureProcessor","Texture2DContent",3894,1252885,0.0496008
+"C:/game/Grov/Grov/Content/HealthBarFull.png","C:/game/Grov/Grov/Content/bin/Windows/HealthBarFullSprite.xnb","TextureProcessor","Texture2DContent",3559,1252885,0.0499516
+"C:/game/Grov/Grov/Content/MageholderSprite.png","C:/game/Grov/Grov/Content/bin/Windows/MageholderSprite.xnb","TextureProcessor","Texture2DContent",3398,680885,0.0306776
+"C:/game/Grov/Grov/Content/ManaBarEmpty.png","C:/game/Grov/Grov/Content/bin/Windows/ManaBarEmptySprite.xnb","TextureProcessor","Texture2DContent",4261,1252885,0.0605128
+"C:/game/Grov/Grov/Content/ManaBarFull.png","C:/game/Grov/Grov/Content/bin/Windows/ManaBarFullSprite.xnb","TextureProcessor","Texture2DContent",4188,1252885,0.0709267
+"C:/game/Grov/Grov/Content/tile0.png","C:/game/Grov/Grov/Content/bin/Windows/tile0.xnb","TextureProcessor","Texture2DContent",1504,1109,0.0120304
+"C:/game/Grov/Grov/Content/tile1.png","C:/game/Grov/Grov/Content/bin/Windows/tile1.xnb","TextureProcessor","Texture2DContent",1708,1109,0.0133905
+"C:/game/Grov/Grov/Content/tile2.png","C:/game/Grov/Grov/Content/bin/Windows/tile2.xnb","TextureProcessor","Texture2DContent",382,1109,0.0130771
+"C:/game/Grov/Grov/Content/tile3.png","C:/game/Grov/Grov/Content/bin/Windows/tile3.xnb","TextureProcessor","Texture2DContent",340,1109,0.0153762
+"C:/game/Grov/Grov/Content/tile4.png","C:/game/Grov/Grov/Content/bin/Windows/tile4.xnb","TextureProcessor","Texture2DContent",562,1109,0.0104149
+"C:/game/Grov/Grov/Content/tile5.png","C:/game/Grov/Grov/Content/bin/Windows/tile5.xnb","TextureProcessor","Texture2DContent",482,1109,0.0109788
+"C:/game/Grov/Grov/Content/tile6.png","C:/game/Grov/Grov/Content/bin/Windows/tile6.xnb","TextureProcessor","Texture2DContent",424,1109,0.0124108

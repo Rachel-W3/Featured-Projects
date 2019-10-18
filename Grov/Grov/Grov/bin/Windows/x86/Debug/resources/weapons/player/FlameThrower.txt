@@ -1,0 +1,11 @@
+﻿Flame Thrower
+3
+0.5
+1.5
+1
+10
+Spread
+20
+1
+Fire
+false

@@ -1,0 +1,11 @@
+Lobber
+60
+6
+24
+1
+5.0
+Normal
+200
+25
+Bubble
+false

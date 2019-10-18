@@ -1,0 +1,11 @@
+﻿Star Burst
+25
+3
+10
+7
+15
+Radial
+30
+20
+Star
+false

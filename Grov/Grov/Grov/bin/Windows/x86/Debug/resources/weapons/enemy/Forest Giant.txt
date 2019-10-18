@@ -1,0 +1,10 @@
+Forest Giant
+60
+20
+0
+9
+6
+Radial
+90
+7
+Star

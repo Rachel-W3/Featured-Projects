@@ -1,0 +1,11 @@
+Paralyzer Bubble
+75
+3
+40
+1
+0
+Bubble
+2
+200
+Bubble
+true

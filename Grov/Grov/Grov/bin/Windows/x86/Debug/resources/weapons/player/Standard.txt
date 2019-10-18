@@ -1,0 +1,11 @@
+Devastator
+17
+2.5
+10
+1
+11.0
+Normal
+95
+11
+Fire
+false

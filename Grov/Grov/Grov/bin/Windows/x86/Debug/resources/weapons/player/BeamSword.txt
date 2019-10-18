@@ -1,0 +1,11 @@
+Beam Sword
+0
+0.5
+1
+1
+30
+Normal
+5
+0
+Bubble
+false

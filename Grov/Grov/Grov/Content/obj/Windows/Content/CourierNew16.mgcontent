@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/CourierNew16.spritefont</SourceFile>
+  <SourceTime>2019-04-11T18:57:32.8659534-04:00</SourceTime>
+  <DestFile>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/bin/Windows/Content/CourierNew16.xnb</DestFile>
+  <DestTime>2019-10-04T10:01:34.8972456-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>LocalizedFontProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

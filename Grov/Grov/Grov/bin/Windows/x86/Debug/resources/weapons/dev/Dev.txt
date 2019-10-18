@@ -1,0 +1,11 @@
+﻿Dev-ine Hand of Fire
+1
+10000
+0
+1
+25
+Normal
+-1
+2000
+Fire
+true

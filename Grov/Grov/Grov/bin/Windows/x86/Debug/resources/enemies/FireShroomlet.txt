@@ -1,0 +1,9 @@
+﻿Fire Shroomlet
+12
+false
+1
+1
+4
+1
+Default
+false

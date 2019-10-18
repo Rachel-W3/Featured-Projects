@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/audio/music/TitleMusicIntro.wav</SourceFile>
+  <SourceTime>2019-04-03T13:01:27.8013452-04:00</SourceTime>
+  <DestFile>C:/Users/rache/Desktop/Files/Projects/Projects/game/Grov/Grov/Content/bin/Windows/Content/audio/music/TitleMusicIntro.xnb</DestFile>
+  <DestTime>2019-10-04T10:01:32.0824518-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

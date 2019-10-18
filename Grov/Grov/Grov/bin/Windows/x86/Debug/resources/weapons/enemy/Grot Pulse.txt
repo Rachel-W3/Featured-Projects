@@ -1,0 +1,11 @@
+Grot Pulse
+0
+20
+0
+75
+3
+Radial
+90
+0
+Leaf
+false

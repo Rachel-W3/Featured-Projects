@@ -1,0 +1,334 @@
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\EnemyholderSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\MageholderSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Grov.exe
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Grov.pdb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\game\Grov\Grov\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\game\Grov\Grov\obj\x86\Debug\Grov.csprojAssemblyReference.cache
+C:\game\Grov\Grov\obj\x86\Debug\Grov.csproj.CoreCompileInputs.cache
+C:\game\Grov\Grov\obj\x86\Debug\Grov.csproj.CopyComplete
+C:\game\Grov\Grov\obj\x86\Debug\Grov.exe
+C:\game\Grov\Grov\obj\x86\Debug\Grov.pdb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarEmptySprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarFullSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarEmptySprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarFullSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\spawn.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\CourierNew.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\StartButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\StartButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile0.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile1.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile2.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile3.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile4.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile5.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile6.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile7.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Bubble.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Fire.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0001\AQuietSpring.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0010\AnOutlet.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0100\ASymbol.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0110\Fork.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0111\Peninsula.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0111\TheV.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1000\EasterIsland.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1001\Ruins.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\BlockedPath.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1011\BattleaxeClearing.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1011\BattleaxeClearing_2.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1100\River.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\NarrowSafePath.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\PondOfContemplation.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1110\CornerRiver.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1110\RiversideFlowerbed.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\1111_Original.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0011\Plains.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0101\DockBridge.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\CalmForest.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\CalmOcean.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\DeadlyMountain.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\Heart.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\Map.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\MapMarkers.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1100\RiversideFlowerbed.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0001\Standard_Treasure.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0010\Standard_Treasure.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0100\Standard_Treasure.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\1000\Standard_Treasure.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicIntro.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicLoop.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Default.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\FlameThrower.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\ParalyzerBubble.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\BubbleX.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\dev\Dev.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\FireHand.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\StarBurst.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\RestartButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\RestartButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ReturnMenuButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ReturnMenuButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\BubbleCast.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\FireShot.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\Title.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\BeamSword.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Halo.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\dev\Default.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\RangedHalo.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Slasher.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Star.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\CourierNew16.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\dimColor.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\PausedLabel.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\PlayerSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0001\Campgound.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0010\StrangeRiver.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0100\DestroyedSymbol.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1000\OrganLake.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\BlackholePlayerSprite.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\Grot.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Grot.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0101\NarrowSafePath.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0001\Grot.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0010\Grot.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0100\Grot.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\1000\Grot.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ResumeButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ResumeButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Twig.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Bubble.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Fire.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Star.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Twig.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\ConfirmationLabel.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Lobber.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Standard.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0011\Standoff.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0110\IslandSniper.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1001\Ruins2.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\CurvedPath.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\ForestGiant.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\Turret.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Forest Giant.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Turret.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\HelpButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\HelpButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\Turret.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\Sniper.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0001\Forest Giant.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0001\Hell.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0010\Forest Giant.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0010\Hell.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0100\Forest Giant.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0100\WateryHell.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\1000\Forest Giant.grovlev
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\Grot.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\FireShroomlet.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\RedShroomlet.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Grot Pulse.txt
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Leaf.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\000.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\001.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\002.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\000.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\001.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\000.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\001.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\002.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\003.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\Crosshair.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\NoButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\NoButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\YesButton_Hover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\YesButton_NoHover.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Leaf.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\background.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\000.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\001.xnb
+C:\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\002.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\ForestGiant.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\Grot.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\FireShroomlet.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\RedShroomlet.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Forest Giant.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Grot Pulse.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Turret.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Default.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\enemy\Grot.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\BeamSword.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Lobber.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Standard.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\FlameThrower.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Halo.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\ParalyzerBubble.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\BubbleX.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\dev\Default.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\dev\Dev.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\FireHand.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\RangedHalo.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\Slasher.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\weapons\player\StarBurst.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\BlackholePlayerSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\EnemyholderSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\MageholderSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0001\AQuietSpring.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0001\Campgound.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0010\AnOutlet.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0010\StrangeRiver.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0011\Standoff.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0100\ASymbol.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0100\DestroyedSymbol.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0101\NarrowSafePath.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0110\Fork.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0110\IslandSniper.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0111\Peninsula.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0111\TheV.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1000\EasterIsland.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1000\OrganLake.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1001\Ruins.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1001\Ruins2.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\BlockedPath.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\CurvedPath.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1010\Turret.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1011\BattleaxeClearing.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1011\BattleaxeClearing_2.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1100\River.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1100\RiversideFlowerbed.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\NarrowSafePath.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\PondOfContemplation.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1101\Sniper.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1110\CornerRiver.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1110\RiversideFlowerbed.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\1111_Original.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0011\Plains.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\0101\DockBridge.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\CalmForest.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\CalmOcean.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\1111\DeadlyMountain.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0001\Forest Giant.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0001\Hell.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0010\Forest Giant.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0010\Hell.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0100\Forest Giant.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\0100\WateryHell.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Forest Giant\1000\Forest Giant.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0001\Grot.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0010\Grot.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\0100\Grot.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\boss\Grot\1000\Grot.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\spawn.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0001\Standard_Treasure.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0010\Standard_Treasure.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\0100\Standard_Treasure.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\rooms\treasure\1000\Standard_Treasure.grovlev
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\resources\enemies\PurpleShroomlet.txt
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\HelpButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\HelpButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\NoButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\NoButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\RestartButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\RestartButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ResumeButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ResumeButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ReturnMenuButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ReturnMenuButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\StartButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\StartButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\YesButton_Hover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\button images\YesButton_NoHover.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\BubbleCast.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\FireShot.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile0.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile1.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile2.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile3.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile4.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile5.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile6.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\tiles\tile7.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicIntro.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicLoop.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Bubble.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Fire.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Leaf.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Star.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\projectiles\Twig.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Bubble.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Fire.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Leaf.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Star.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Twig.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\Heart.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\000.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\001.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\RedShroomlet_Walking\002.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\000.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\001.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\002.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\000.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\001.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\000.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\001.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\002.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\003.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\ConfirmationLabel.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\CourierNew.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\CourierNew16.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\Crosshair.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\dimColor.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\Grot.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarEmptySprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarFullSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\HelpScreen.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarEmptySprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarFullSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\Map.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\MapMarkers.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\PausedLabel.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\classes\managers\GameManager.cs
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Grov.exe
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\Grov.pdb
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\obj\x86\Debug\Grov.csprojAssemblyReference.cache
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\obj\x86\Debug\Grov.csproj.CoreCompileInputs.cache
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\obj\x86\Debug\Grov.csproj.CopyComplete
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\obj\x86\Debug\Grov.exe
+C:\Users\rache\Desktop\Files\Projects\Projects\game\Grov\Grov\obj\x86\Debug\Grov.pdb

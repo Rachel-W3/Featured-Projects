@@ -1,0 +1,10 @@
+Default
+30
+10
+10
+1
+10
+Normal
+60
+7
+Fire

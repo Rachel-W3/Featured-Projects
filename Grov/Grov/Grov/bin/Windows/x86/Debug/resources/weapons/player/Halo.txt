@@ -1,0 +1,11 @@
+Halo
+2
+0.1
+0.7
+30
+130
+Radial
+2
+0
+Star
+false
