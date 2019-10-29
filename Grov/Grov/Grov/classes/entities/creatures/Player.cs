@@ -21,9 +21,6 @@ namespace Grov
     {
         #region fields
         // ************* Fields ************* //
-
-        private float maxMP;
-        private float currMP;
         private int cooldown;
         private bool stoppedFiring;
         private Weapon secondary;
@@ -37,24 +34,6 @@ namespace Grov
 
         #region properties
         // ************* Properties ************* //
-
-        public float CurrMP
-        {
-            get => currMP;
-            set
-            {
-                if (value >= 0)
-                {
-                    currMP = value;
-                }
-                else
-                {
-                    currMP = 0;
-                }
-            }
-        }
-
-        public float MaxMP { get => maxMP; set => maxMP = value; }
         public int Keys { get => keys; set => keys = value; }
         public int Bombs { get => bombs; set => bombs = value; }
         public Weapon Secondary { get => secondary; set => secondary = value; }
@@ -65,10 +44,8 @@ namespace Grov
         #region constructors
         // ************* Constructor ************* //
 
-        public Player(float maxHP, float maxMP, float fireRate, float moveSpeed, float attackDamage, float projectileSpeed, Rectangle drawPos, Rectangle hitbox, Vector2 velocity, AnimatedTexture texture) : base(maxHP, false, fireRate, moveSpeed, attackDamage, projectileSpeed, drawPos, hitbox, new Vector2(drawPos.X, drawPos.Y), velocity, true, texture)
+        public Player(float maxHP, float fireRate, float moveSpeed, float attackDamage, float projectileSpeed, Rectangle drawPos, Rectangle hitbox, Vector2 velocity, AnimatedTexture texture) : base(maxHP, false, fireRate, moveSpeed, attackDamage, projectileSpeed, drawPos, hitbox, new Vector2(drawPos.X, drawPos.Y), velocity, true, texture)
         {
-            this.maxMP = maxMP;
-            this.currMP = maxMP;
             keys = 0;
             bombs = 0;
             isInputKeyboard = true;  
@@ -92,12 +69,6 @@ namespace Grov
                 weapon.Update();
             if (secondary != null)
                 secondary.Update();
-
-            //If you're not shooting/weapon isn't in cooldown, recharge mana
-            if(currMP < MaxMP && cooldown == 0 && (weapon == null || weapon.ReadyToFire(fireRate)))
-            {
-                currMP += .5f;
-            }
 
             //If you're invinceable for whatever reason, increment time
             if(this.Iframes > 0)
@@ -159,11 +130,10 @@ namespace Grov
                     direction += new Vector2(1f, 0f);
                 }
                 if(weapon != null && ((GameManager.CurrentKeyboardState.IsKeyDown(Microsoft.Xna.Framework.Input.Keys.Space)
-                    || GameManager.CurrentMouseState.LeftButton.Equals(ButtonState.Pressed)) && this.currMP > 0 && lastWeaponFired.ReadyToFire(fireRate) && cooldown == 0))
+                    || GameManager.CurrentMouseState.LeftButton.Equals(ButtonState.Pressed)) && lastWeaponFired.ReadyToFire(fireRate) && cooldown == 0))
                 {
                     this.Attack();
                     lastWeaponFired = weapon;
-                    if (currMP <= 0) cooldown += weapon.Cooldown;
                     stoppedFiring = false;
                 }
                 //Switch primary weapon
@@ -193,10 +163,9 @@ namespace Grov
                 direction = GameManager.CurrentGamePadState.ThumbSticks.Left;
                 direction.Y = -direction.Y;
 
-                if (GameManager.CurrentGamePadState.IsButtonDown(Buttons.RightTrigger) && this.currMP >= 0 && lastWeaponFired.ReadyToFire(fireRate) && cooldown == 0)
+                if (GameManager.CurrentGamePadState.IsButtonDown(Buttons.RightTrigger) && lastWeaponFired.ReadyToFire(fireRate) && cooldown == 0)
                 {
                     this.Attack();
-                    if (currMP <= 0) cooldown += weapon.Cooldown;
                     stoppedFiring = false;
                 }
 
@@ -323,7 +292,6 @@ namespace Grov
         {
             //this.weapon.Position = new Vector2(this.position.X + (this.drawPos.Width - weapon.DrawPos.Width)/2, this.position.Y + (this.drawPos.Height - weapon.DrawPos.Height) / 2);
             this.weapon.Use(aimDirection * projectileSpeed);
-            this.currMP -= weapon.ManaCost;
         }
 
         /// <summary>

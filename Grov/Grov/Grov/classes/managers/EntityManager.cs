@@ -48,7 +48,7 @@ namespace Grov
             newPickups = new List<Pickup>();
 
             //testing
-            player = new Player(100, 100, 2, 6, 5, 1, new Rectangle((15  * FloorManager.TileWidth) + FloorManager.TileWidth/2, (8 * FloorManager.TileHeight) + FloorManager.TileWidth/2, 60, 74), 
+            player = new Player(100, 2, 6, 5, 1, new Rectangle((15  * FloorManager.TileWidth) + FloorManager.TileWidth/2, (8 * FloorManager.TileHeight) + FloorManager.TileWidth/2, 60, 74), 
                 new Rectangle((15 * FloorManager.TileWidth) + FloorManager.TileWidth/2, (8 * FloorManager.TileHeight) + FloorManager.TileWidth/2 + 45, 60, 29), new Vector2(0, 0), null);
         }
 
@@ -194,7 +194,6 @@ namespace Grov
                 player.Secondary = null;
             player.CurrHP = 100;
             player.MaxHP = 100;
-            player.MaxMP = 100;
             //Clear the list of weapons that have already spawned, the only part of terrain generation that persists across floors
             GameManager.Instance.SpawnedWeapons.Clear();
         }
