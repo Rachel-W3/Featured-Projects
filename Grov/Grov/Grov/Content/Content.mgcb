@@ -157,30 +157,6 @@
 /processorParam:TextureFormat=Color
 /build:animations/RedShroomlet_Walking/002.png
 
-#begin audio/music/TitleMusicIntro.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:audio/music/TitleMusicIntro.wav;audio/music/TitleMusicIntro
-
-#begin audio/music/TitleMusicLoop.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:audio/music/TitleMusicLoop.wav;audio/music/TitleMusicLoop
-
-#begin audio/SFX/BubbleCast.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:audio/SFX/BubbleCast.wav;audio/SFX/BubbleCast
-
-#begin audio/SFX/FireShot.mp3
-/importer:Mp3Importer
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:audio/SFX/FireShot.mp3;audio/SFX/FireShot
-
 #begin background.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -482,30 +458,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:HelpScreen.png
-
-#begin ManaBarEmpty.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:ManaBarEmpty.png;ManaBarEmptySprite
-
-#begin ManaBarFull.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:ManaBarFull.png;ManaBarFullSprite
 
 #begin Map.png
 /importer:TextureImporter

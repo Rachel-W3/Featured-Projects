@@ -16,10 +16,6 @@
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/animations/RedShroomlet_Walking/000.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/animations/RedShroomlet_Walking/001.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/animations/RedShroomlet_Walking/002.png</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/audio/music/TitleMusicIntro.wav</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/audio/music/TitleMusicLoop.wav</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/audio/SFX/BubbleCast.wav</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/audio/SFX/FireShot.mp3</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/background.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/button images/ExitButton_Hover.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/button images/ExitButton_NoHover.png</File>
@@ -46,8 +42,6 @@
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/HealthBarEmpty.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/HealthBarFull.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/HelpScreen.png</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/ManaBarEmpty.png</File>
-    <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/ManaBarFull.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/Map.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/MapMarkers.png</File>
     <File>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/PausedLabel.png</File>
@@ -86,10 +80,6 @@
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
-    <File>audio/music/TitleMusicIntro</File>
-    <File>audio/music/TitleMusicLoop</File>
-    <File>audio/SFX/BubbleCast</File>
-    <File>audio/SFX/FireShot</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
@@ -116,8 +106,6 @@
     <File>HealthBarEmptySprite</File>
     <File>HealthBarFullSprite</File>
     <File xsi:nil="true" />
-    <File>ManaBarEmptySprite</File>
-    <File>ManaBarFullSprite</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

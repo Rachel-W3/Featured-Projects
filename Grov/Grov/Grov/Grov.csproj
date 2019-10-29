@@ -50,7 +50,6 @@
     <Compile Include="classes\entities\creatures\pathfinding\PriorityQueue.cs" />
     <Compile Include="classes\entities\creatures\pathfinding\TileNode.cs" />
     <Compile Include="classes\environment\RoomNode.cs" />
-    <Compile Include="classes\managers\AudioManager.cs" />
     <Compile Include="classes\managers\DisplayManager.cs" />
     <Compile Include="classes\entities\creatures\Enemy.cs" />
     <Compile Include="classes\entities\Entity.cs" />

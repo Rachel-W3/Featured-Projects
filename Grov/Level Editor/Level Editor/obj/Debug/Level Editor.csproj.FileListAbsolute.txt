@@ -8,3 +8,13 @@ C:\game\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource
 C:\game\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
 C:\game\Level Editor\Level Editor\obj\Debug\Level Editor.exe
 C:\game\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Level Editor\Level Editor\obj\Debug\Level Editor.pdb

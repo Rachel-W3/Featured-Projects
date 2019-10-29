@@ -370,8 +370,6 @@ C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\PurpleShroomlet_Walking\002.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\000.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\ForestGiant_Walking\001.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\BubbleCast.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\audio\SFX\FireShot.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\000.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\001.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\animations\FireShroomlet_Walking\002.xnb
@@ -381,8 +379,6 @@ C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Leaf.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Star.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\pickups\weapons\Twig.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicIntro.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\audio\music\TitleMusicLoop.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_Hover.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\button images\ExitButton_NoHover.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\button images\HelpButton_Hover.xnb
@@ -423,8 +419,6 @@ C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarEmptySprite.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\HealthBarFullSprite.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\HelpScreen.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarEmptySprite.xnb
-C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\ManaBarFullSprite.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\Map.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\MapMarkers.xnb
 C:\Users\rache\Desktop\Files\Personal Projects\Featured-Projects\Grov\Grov\Grov\bin\Windows\x86\Debug\Content\PausedLabel.xnb

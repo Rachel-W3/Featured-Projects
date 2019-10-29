@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/game/Grov/Grov/Content/HealthBarFull.png</SourceFile>
-  <SourceTime>2019-03-01T14:02:18.5853858-05:00</SourceTime>
-  <DestFile>C:/game/Grov/Grov/Content/bin/Windows/HealthBarFullSprite.xnb</DestFile>
-  <DestTime>2019-03-18T12:24:08.9800491-04:00</DestTime>
+  <SourceFile>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/HealthBarFull.png</SourceFile>
+  <SourceTime>2019-10-18T20:00:35.0240849-04:00</SourceTime>
+  <DestFile>C:/Users/rache/Desktop/Files/Personal Projects/Featured-Projects/Grov/Grov/Grov/Content/bin/Windows/HealthBarFullSprite.xnb</DestFile>
+  <DestTime>2019-10-29T16:33:42.0069038-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

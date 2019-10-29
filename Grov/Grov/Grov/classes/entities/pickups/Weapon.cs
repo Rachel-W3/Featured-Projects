@@ -128,18 +128,6 @@ namespace Grov
             int projectileSize = 30;
             Rectangle origin = new Rectangle(drawPos.X + (drawPos.Width - projectileSize) / 2, drawPos.Y + (drawPos.Height - projectileSize) / 2, projectileSize, projectileSize);
 
-            //Audio stuff
-            switch (projectileType)
-            {
-                case ProjectileType.Fire:
-                    AudioManager.Instance.PlayEffect("FireShot");
-                    break;
-
-                case ProjectileType.Bubble:
-                    AudioManager.Instance.PlayEffect("BubbleCast");
-                    break;
-            }
-
             //Create projectiles
             switch (shotType)
             {
