@@ -1,0 +1,154 @@
+body {
+    background-color: #163A54;
+    background: url(../images/blue-skies-background-dark.jpg) no-repeat right top fixed;
+    background-size: cover;
+}
+
+#wrapper {
+    max-width: 1200px;
+    margin: 0px auto;
+    border: 10px double skyblue;
+}
+
+main {
+    background-color: rgba(164, 210, 243, 0.7);
+    padding: 5%;
+}
+
+
+header, footer {
+    background-color: #f0f5f9;
+    padding: 1%;
+}
+
+img {
+    width: 100%;
+}
+
+h1, h2, nav a, footer p {
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1, h2.temp, nav a, footer p{
+    text-align: center;
+}
+
+h1, footer p {
+    color: #4c9dc8;
+    line-height: 1.3em;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #c8e3f8;
+    padding: 0px 2vw;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    display: flex;
+}
+
+nav a {
+    padding: 10vh 3.5rem;
+    font-size: 15pt;
+    text-align: center;
+}
+
+nav li {
+    float: left;
+    padding: 30px 0px;
+}
+
+nav a:link, nav a:visited {
+    color: black;
+}
+
+nav a:focus, nav a:hover, nav a:active {
+    background-color: white;
+    transition: background-color 0.3s;
+}
+
+h2.temp {
+    font-size: 3em;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+p, h3, ul {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p, ul {
+    font-size: 18pt;
+}
+
+#gameButton {
+    margin: 20px 20%;
+}
+
+#gameButton a {
+    color: #000;
+}
+
+section {
+    padding: 2em 0px;
+    border-bottom: 1px solid black;
+}
+
+hr {
+    border-color: black;
+    margin-top: 40px;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 1300px) {
+    nav {
+        padding: 0px;
+    }
+
+    nav ul {
+        justify-content: flex-start;
+        display: flex;        
+        flex-direction: column;
+        padding: 0px;
+    }
+
+    nav a {
+        font-size: 0.5em;
+    }
+
+    nav li {
+        padding: 1.3vh 0px;
+    }
+
+    nav a {
+        padding: 0.8rem;
+        padding-right: 100vw;
+    }
+
+    p {
+        font-size: 10pt;
+    }
+
+    h2, h2.temp, h3{
+        font-size: 1em;
+        padding: 0px;
+    }
+
+    .doc li {
+        font-size: 0.6em;
+    }
+}
