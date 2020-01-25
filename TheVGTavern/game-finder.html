@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+ 	<title>Game Finder</title>
+ 	<style>/* We have no style! */</style>
+	<!-- Import jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script>
+  	"use strict";
+	window.onload = init;
+	
+	function init(){
+		document.querySelector("#search").onclick = getData;
+	}
+	
+	let term = ""; // we declared `term` out here because we will need it later
+	function getData(){
+		// 1 - main entry point to web service
+		const SERVICE_URL = "https://api.rawg.io/api/games?search=";
+		
+		// No API Key required!
+		
+		// 2 - build up our URL string
+		let url = SERVICE_URL;
+		
+		// 3 - parse the user entered term we wish to search
+		term = document.querySelector("#searchterm").value;
+		
+		// get rid of any leading and trailing spaces
+		term = term.trim();
+		// encode spaces and special characters
+		term = encodeURIComponent(term);
+        url += term;
+		
+		// 4 - update the UI
+		document.querySelector("#debug").innerHTML = `<b>Querying web service with:</b> <a href="${url}" target="_blank">${url}</a>`;
+		
+		// 5- call the web service, and prepare to download the file
+		$.ajax({
+		  dataType: "json",
+		  url: url,
+		  data: null
+		});
+		
+		
+	}
+  </script>
+
+</head>
+<body>
+<header>
+ <h1>Game Finder</h1>
+</header>
+
+<p>Search Term -&gt; <input id="searchterm" type="text" size="20" maxlength="20" autofocus value="minecraft" /></p>
+<p><button type="button" id="search" class="green">Search!</button></p>
+<p id="debug"></p>
+<hr>
+
+</body>
+</html>
